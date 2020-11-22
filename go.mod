@@ -1,4 +1,4 @@
-module atomic
+module gotoolkits
 
 go 1.14
 
